@@ -1,3 +1,3 @@
-## Guessing Game 
-# Unix Workbench
+# Guessing Game 
+## Unix Workbench
 Guess the files in the directory
